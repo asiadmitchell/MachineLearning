@@ -7,4 +7,4 @@ iPython Notebooks - implementing some machine learning algorithms
 
 ## 2. [Linear Discriminant Analysis for Renal Tumor Grade Classifer](https://github.com/asiadmitchell/MachineLearning/blob/master/LDA_KIRCmutations.ipynb)
 ###### Asia Mitchell - June 2016
-##### There is very limited information regarding the clinical and molecular features of high and low Fuhrman grade ccRCCs. Using clinical and mutation data along, I built a linear classifier for Fuhrman grade in ccRCCs. I used leave-one-out cross-validation to determine how well the LDA model generalizes. 
+##### There is very limited information regarding the clinical and molecular features of high and low Fuhrman grade ccRCCs. Using clinical and DNA mutation data, I built a linear classifier for Fuhrman grade in ccRCCs. I used leave-one-out cross-validation to determine how well the LDA model generalizes. 
